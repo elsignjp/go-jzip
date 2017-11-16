@@ -1,0 +1,6 @@
+/*.toml
+/*.json
+/*.sql
+/*.zip
+/vendor*
+/Gopkg.lock
